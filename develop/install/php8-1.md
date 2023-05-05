@@ -4,12 +4,12 @@
 
 После добавления этого репозитория первоначальную установку и обновления можно выполнить стандартными apt командами.
 
-Ubuntu
+**Ubuntu**
 
     sudo add-apt-repository ppa:ondrej/php # Press enter when prompted.
     sudo apt update
 
-Debian
+**Debian**
 
     sudo apt install apt-transport-https lsb-release ca-certificates wget -y
     sudo wget -O /etc/apt/trusted.gpg.d/php.gpg https://packages.sury.org/php/apt.gpg
