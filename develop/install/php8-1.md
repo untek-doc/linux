@@ -67,4 +67,5 @@
 
 ## Ссылки
 
-* https://www.dev-notes.ru/articles/php/install-php82-ubuntu-debian/?ysclid=lhak8kikiy749890379
+* [Как установить PHP 8.2 на Debian/Ubuntu](https://www.dev-notes.ru/articles/php/install-php82-ubuntu-debian/?ysclid=lhak8kikiy749890379)
+* [Как установить/обновить PHP 8.1 в Ubuntu/Debian](https://sergeymukhin.com/blog/kak-ustanovitobnovit-php-81-v-ubuntudebian?ysclid=lh76zzcv7q800894993)
