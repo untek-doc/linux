@@ -64,3 +64,7 @@
 ## Запуск PHP 8.1 с другими версиями
 
     sudo update-alternatives --config php
+
+## Ссылки
+
+* https://www.dev-notes.ru/articles/php/install-php82-ubuntu-debian/?ysclid=lhak8kikiy749890379
