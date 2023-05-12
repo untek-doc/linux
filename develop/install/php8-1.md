@@ -34,7 +34,7 @@
 
 Пример установки еще нескольких полезных расширений:
 
-    sudo apt install php8.1-{bz2,curl,intl,xml}
+    sudo apt install php8.1-{bz2,curl,intl,xml,mbstring,zip}
 
 Для сред разработки также могут быть установлены инструменты покрытия кода или отладчик Xdebug. 
 
