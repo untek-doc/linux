@@ -17,6 +17,7 @@
 
 ### Перифирия
 
+* [Docker](install/docker.md)
 * [GIT](install/git.md)
 * [Composer](install/composer.md)
 * [PHPStorm](install/phpStorm.md)
