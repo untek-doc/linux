@@ -4,16 +4,16 @@
 
     sudo snap install libreoffice
 
-## Debian
+## Apt
 
     sudo add-apt-repository ppa:libreoffice/ppa
     sudo apt update
     sudo apt dist-upgrade
 
-## Ubuntu
+для Ubuntu:
 
     sudo apt install libreoffice libreoffice-gnome
 
-## Kubuntu
+для Kubuntu:
 
     sudo apt install libreoffice libreoffice-plasma
