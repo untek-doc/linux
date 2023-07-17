@@ -1,11 +1,5 @@
 # Libre Office
 
-## Snap
-
-    sudo snap install libreoffice
-
-## Apt
-
     sudo add-apt-repository ppa:libreoffice/ppa
     sudo apt update
     sudo apt dist-upgrade
