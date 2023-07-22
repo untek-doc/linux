@@ -1,3 +1,3 @@
 # GIMP
 
-  sudo apt -y install gimp
+    sudo apt -y install gimp
