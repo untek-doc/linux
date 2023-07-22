@@ -15,6 +15,7 @@
 * [touchpad-indicator (отключение тачпада)](tools/touchpadIndicator.md)
 * [7zip (архиватор)](tools/7zip.md)
 * [Libre Office](tools/libreOfiice.md)
+* [GIMP](tools/gimp.md)
 
 ## Руководство
 
