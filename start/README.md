@@ -16,7 +16,7 @@
 * [7zip (архиватор)](tools/7zip.md)
 * [Libre Office](tools/libreOfiice.md)
 * [GIMP](tools/gimp.md)
-* [SSH server](ssh-server.md)
+* [SSH server](tools/ssh-server.md)
 
 ## Руководство
 
