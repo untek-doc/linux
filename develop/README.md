@@ -33,6 +33,7 @@
 ## Рецепты
 
 * [Генерация SSH-ключа для GIT](recipe/gitSsh.md)
+* [Настройка прав для SSH ключей](config-ssh-permission.md)
 * [Настройка сервера на Virtual Box](recipe/vbox.md)
 * [Исправление sequence в Postgres](recipe/fixSequence.md)
 * [Исправление локали](recipe/fixLocale.md)
