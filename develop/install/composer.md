@@ -1,6 +1,10 @@
 # Composer
 
-## Установка
+## Установка (Вариант 1)
+
+    sudo apt install composer
+
+## Установка (Вариант 2)
 
     sudo apt update
 
