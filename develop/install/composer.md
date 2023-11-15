@@ -6,8 +6,6 @@
 
 ## Установка (Вариант 2)
 
-    sudo apt update
-
 Download Installer
 
     php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
