@@ -12,16 +12,15 @@
 
     sudo a2enmod rewrite
 
-открыть файл `/etc/apache2/apache2.conf` и добавить код:
+открыть файл `/etc/apache2/apache2.conf`, найти секцию `<Directory /var/www/>` и в ней заменить:
 
-    <Directory /var/www>
-        Options Indexes FollowSymLinks MultiViews
-        AllowOverride All
-        Order allow,deny
-        allow from all
-    </Directory>
+    AllowOverride None
 
-перезапустить сервер:
+на
+
+    AllowOverride All
+
+и перезапустить сервер:
 
     sudo systemctl restart apache2
 
