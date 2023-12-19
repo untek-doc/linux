@@ -32,6 +32,7 @@
 
 ## Рецепты
 
+* [Настройка CRON](recipe/cron-config.md)
 * [Генерация SSH-ключа для GIT](recipe/gitSsh.md)
 * [Настройка прав для SSH ключей](config-ssh-permission.md)
 * [Настройка сервера на Virtual Box](recipe/vbox.md)
