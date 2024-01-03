@@ -2,7 +2,7 @@
 
 Генерация ключа
 
-    ssh-keygen -t rsa -b 2048 -C "my@example.com"
+    ssh-keygen -t rsa -b 4096 -C "my@example.com"
 
 Вводим путь к ключу:
 
