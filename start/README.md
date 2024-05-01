@@ -28,3 +28,4 @@
 * [Блокировка рекламы в браузерах](./guide/adBlock.md)
 * [Автоматизация задач](./guide/autoTask.md)
 * [GPG](./tools/gpg.md)
+* [Virtualbox](./guide/virtualbox.md)
