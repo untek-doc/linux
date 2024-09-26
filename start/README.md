@@ -20,6 +20,7 @@
 
 ## Руководство
 
+* [Включить snap в Linux Mint](./guide/enable-snap-for-mint.md)
 * [Полномочия](./guide/permission.md)
 * [Процессы](guide/process.md)
 * [Установка и удаление приложений](./guide/application.md)
