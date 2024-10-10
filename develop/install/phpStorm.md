@@ -14,7 +14,7 @@
 
 Осталось создать ссылку на исполняемый файл программы в каталоге /usr/local/bin/, чтобы она была доступна в системе:
 
-    sudo ln -s /opt/PhpStorm-2020.3/bin/phpstorm.sh /usr/local/bin/phpstorm
+    sudo ln -s /opt/PhpStorm-203.5981.175/bin/phpstorm.sh /usr/local/bin/phpstorm
 
 Запуск:
 
