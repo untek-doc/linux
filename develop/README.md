@@ -7,6 +7,7 @@
 * [Apache](install/apache.md)
 * [PHP 7](install/php.md)
 * [PHP 8.1](install/php8-1.md)
+* [PHP 8.3](install/php8-3.md)
 * [NodeJS](install/nodejs.md)
 * [SQLite](./install/sqlite.md)
 * [Postgres SQL](install/postgres.md)
