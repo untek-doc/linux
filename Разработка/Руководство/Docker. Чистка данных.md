@@ -43,3 +43,22 @@ docker images -f dangling=true
 ```
 docker image prune
 ```
+### Removing networks
+
+**List:**
+```
+docker network ls
+```
+**Remove:**
+```
+docker network prune -f
+```
+### Removing custom networks
+
+**List:**
+```
+docker network ls --filter "type=custom" --format "{{.ID}}"
+```
+**Remove:**
+```
+docker network prune -f
